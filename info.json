@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "cv",
+            "version": "1.0.0",
+            "description": "this is a website for my personal information",
+            "longDescription": "",
+            "githubLink": "https://github.com/michaelpeterswa/cv",
+            "date": "06.30.2020"
+        }
+    ]
+}
